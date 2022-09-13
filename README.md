@@ -1,5 +1,6 @@
 # Kidney_Stone_Detection_DeepLearning
 Kidney Stone Detection using Image Processing and Deep Neural Networks
+http://ijream.org/papers/IJREAMV08I0387055.pdf
 The Major Steps involved in the Detection of kidney stone using Deep Neural Networks are as follows:
 	Gathering data
 	Data Pre-Processing
